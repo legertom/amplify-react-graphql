@@ -1,0 +1,14 @@
+{
+  "resourceName": "notedb",
+  "policyUUID": "4f4bccc4",
+  "bucketName": "amplifyreactgraphqle26de75ad6284d2bbbc5c9105582",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
